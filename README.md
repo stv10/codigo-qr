@@ -50,20 +50,6 @@ I used this challenge to practice flexbox and styling with css, i found it very 
     </main>
 ```
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ### Continued development
 
 Talking about learning i would like your advice about this breakpoints i made, it is the only way i know to make a responsive page, i am sure there is a better approach for this, with some function maybe or another tool i miss
