@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Aknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -50,32 +51,11 @@ I used this challenge to practice flexbox and styling with css, i found it very 
     </main>
 ```
 
-### Continued development
-
-Talking about learning i would like your advice about this breakpoints i made, it is the only way i know to make a responsive page, i am sure there is a better approach for this, with some function maybe or another tool i miss
-```css
-@media (max-width: 1200px) {
-    #card {
-        width: 23%;
-    }
-  }
-
-  @media (max-width: 1100px) {
-    #card {
-        width: 25%;
-    }
-  }
-
-  @media (max-width: 1000px) {
-    #card {
-        width: 27%;
-    }
-  }
-  ```
-
-  and like this ones i made a lot more...
-
 ## Author
 
 - Frontend Mentor - [@stv10](https://www.frontendmentor.io/profile/stv10)
 - Twitter - [@santi_V18](https://www.twitter.com/santi_v18)
+
+## Acknowledgements
+
+- Lucas from Frontend Mentor Community - [@correlucas](https://www.frontendmentor.io/profile/correlucas)
