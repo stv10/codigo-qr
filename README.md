@@ -11,9 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -23,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/stv10/codigo-qr.git)
-- Live Site URL: [Add live site URL here](https://stv10-codigo-qr.vercel.app/)
+- Solution URL: [Github](https://github.com/stv10/codigo-qr.git)
+- Live Site URL: [Vercel](https://stv10-codigo-qr.vercel.app/)
 
 ## My process
 
@@ -50,20 +48,6 @@ I used this challenge to practice flexbox and styling with css, i found it very 
         </div>
       </div>
     </main>
-```
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
 ```
 
 ### Continued development
